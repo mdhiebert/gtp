@@ -1,0 +1,7 @@
+name: gtp
+
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - matplotlib
